@@ -45,7 +45,7 @@ A modern, dark-themed desktop application that provides real-time password stren
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/password-fortress.git
+git clone https://github.com/Waqarahmd222/password-fortress.git
 cd password-fortress
 
 # Install dependencies
